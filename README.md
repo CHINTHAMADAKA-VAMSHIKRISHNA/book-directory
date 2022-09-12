@@ -21,6 +21,8 @@ A basic express app to store books and their authors, and search among the added
 6. Run the server <br>
 `node app.js`
 
+7. mongodb username vkri123456 
+
 ## Resources
 - [Node.js installation guide](https://kinsta.com/blog/how-to-install-node-js/#how-to-install-nodejs-and-npm)
 - [MongoDB Atlas beginner's guide](https://www.freecodecamp.org/news/get-started-with-mongodb-atlas/)
